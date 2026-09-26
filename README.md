@@ -1,16 +1,7 @@
----
-title: CampusMate Voice Helpdesk
-emoji: 🎓
-colorFrom: teal
-colorTo: blue
-sdk: docker
-app_port: 7860
-pinned: false
----
 
 # CampusMate - Voice-Enabled Campus Helpdesk Chatbot
 
-Public live URL: `PLACEHOLDER_LIVE_URL`
+Public live URL: `https://voice-chatbot-gzqsdtixcfttzsesuhbnn4.streamlit.app/`
 
 CampusMate is a Streamlit app that accepts spoken, uploaded, or typed university helpdesk questions. It transcribes speech, classifies the intent with a PyTorch CNN-BiLSTM-attention model trained from scratch, and displays the recognized speech, response, confidence, top-3 intents, and attention-token explanation chips.
 
@@ -40,9 +31,6 @@ docker run --rm -p 7860:7860 campusmate
 
 If you want to bake model artifacts into a deployable image, run the training steps locally and commit the `artifacts/` folder before deploying.
 
-## Alternative: Render / Railway
-
-Use the same Dockerfile. Create a new web service from the Git repository, select Docker deployment, expose port `7860`, and set the start command to the Dockerfile default.
 
 ## API
 
