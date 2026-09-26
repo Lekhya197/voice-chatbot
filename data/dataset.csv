@@ -1,0 +1,749 @@
+text,label
+how to apply for scholarship,scholarship_info
+when are practical exams,exam_schedule
+borrow books from library,library_borrowing
+what scholarships are available,scholarship_info
+right now eligibility for undergraduate program,admission_eligibility
+for this semester breakfast menu in mess,mess_menu
+scholarship eligibility,scholarship_info
+how much attendance is needed,attendance_policy
+hey,greeting
+catch you later,goodbye
+talk to you later for me,goodbye
+what is the eligibility criteria please,admission_eligibility
+actually how do i get hostel allotment,hostel_allotment
+are you campusmate please help,bot_identity
+please thanks a lot,thanks
+where can i pay my fee,fee_payment
+can you tell me minimum marks for admission,admission_eligibility
+marks card download,exam_results
+"i need to know, where to check hostel allocation?",hostel_allotment
+actually what scholarships are available,scholarship_info
+campus bus schedule i need to know,transport_bus
+library borrowing rules actually,library_borrowing
+"hey campusmate, how many books can i borrow?",library_borrowing
+hostel attendance rule,hostel_rules
+drop a subject i need to know,course_registration
+hey campusmate annual fee amount,fee_structure
+library borrowing rules on campus,library_borrowing
+um report a campus issue,grievance_redressal
+hey campusmate whats for diner in mess,mess_menu
+"for this semester, buss route to station?",transport_bus
+"right now, breakfast menu in mess?",mess_menu
+hey campusmate return date for books,library_borrowing
+campus bus schedule,transport_bus
+internship opportunities can you tell me,placement_info
+marks card download for this semester,exam_results
+good morning hey campusmate,greeting
+end chat,goodbye
+download exam time table,exam_schedule
+hi can you help me,greeting
+show me exam calendar,exam_schedule
+grievance redressal process,grievance_redressal
+"for me, apply for hostel room?",hostel_allotment
+final exam schedule,exam_schedule
+that is all goodbye i need to know,goodbye
+mess menu for dinner,mess_menu
+wifi is not working,campus_wifi_support
+that helps thanks um,thanks
+"um, attendance percentage requirement?",attendance_policy
+report a campus issue,grievance_redressal
+right now wifi is not working,campus_wifi_support
+minimum attendance required actually,attendance_policy
+good evening,greeting
+"i need to know, thanks a lot?",thanks
+"quick question, how do i get hostel allotment?",hostel_allotment
+shuttle timing today please,transport_bus
+thank you right now,thanks
+how to join this university i need to know,admission_process
+"in the university, hello campus helpdesk?",greeting
+for me companies visiting campus,placement_info
+when do placements start please help,placement_info
+fee breakdown please please,fee_structure
+tell me about student aid please help,scholarship_info
+admission procedure please please help,admission_process
+can you tell me how do i pay fees,fee_payment
+i need to know where can i check results,exam_results
+"hey campusmate, how much are semester fees?",fee_structure
+"quick question, hey?",greeting
+"kindly, can i study in library at night?",library_timings
+required percentage for admission i need to know,admission_eligibility
+"kindly, minimum marks for admission?",admission_eligibility
+admission eligibility please for me,admission_eligibility
+course registration portal,course_registration
+good morning please help,greeting
+could you help with what is the fee structure,fee_structure
+when do placements start,placement_info
+"hey campusmate, what qualifications are needed?",admission_eligibility
+how to renew library book please,library_borrowing
+"i need to know, placement cell details?",placement_info
+hi can you help me could you help with,greeting
+how can i get admission please help,admission_process
+"right now, how much are semester fees?",fee_structure
+mess menu for dinner in the university,mess_menu
+kindly bus timings please,transport_bus
+on campus my result is not showing,exam_results
+placement cell details,placement_info
+where is the fees counter please help,fee_payment
+on campus placement training info,placement_info
+could you help with what food is served today,mess_menu
+"could you help with, grivance form link?",grievance_redressal
+change my elective please help,course_registration
+on campus good afternoon,greeting
+attendence policy please,attendance_policy
+what are the college fees,fee_structure
+how to renew library book please help,library_borrowing
+what documents for admission please help,admission_process
+when is my exam,exam_schedule
+change my elective quick question,course_registration
+"right now, am i eligible for admission?",admission_eligibility
+what is attendance policy,attendance_policy
+kindly add elective course,course_registration
+how to register for placements please help,placement_info
+hostel gate closing time um,hostel_rules
+right now last date for fee payment,fee_payment
+for me hello,greeting
+right now how to file a complaint,grievance_redressal
+great thank you,thanks
+what qualifications are needed,admission_eligibility
+is seventy five attendance mandatory please help,attendance_policy
+rules for leaving hostel,hostel_rules
+hey campusmate what time does the library close,library_timings
+hostal rules please please help,hostel_rules
+exam timetable please i need to know,exam_schedule
+subject registration help please,course_registration
+tell me tuition fee,fee_structure
+what is todays mess menu,mess_menu
+for this semester bye,goodbye
+add elective course,course_registration
+is the library open today please help,library_timings
+good morning,greeting
+course add drop deadline,course_registration
+"actually, boys hostel allotment?",hostel_allotment
+show mess menu please help,mess_menu
+"quick question, thanks for the help?",thanks
+when are hostels allotted kindly,hostel_allotment
+whats the libary timing,library_timings
+admission procedure please quick question,admission_process
+placement training info,placement_info
+right now what is todays mess menu,mess_menu
+how do i apply for admission,admission_process
+eduroam setup help please,campus_wifi_support
+medical leave attendance,attendance_policy
+"in the university, apply for hostel room?",hostel_allotment
+hey campusmate fee payment portal link,fee_payment
+"um, can i reserve a book?",library_borrowing
+how to register for placements for this semester,placement_info
+"in the university, hostel attendance rule?",hostel_rules
+library weekend timing,library_timings
+what are you can you tell me,bot_identity
+"right now, register for next semester?",course_registration
+"right now, how much attendance is needed?",attendance_policy
+late bus available please help,transport_bus
+what are hostel rules,hostel_rules
+"on campus, what can you do?",bot_identity
+eligibilty for admision actually,admission_eligibility
+end chat actually,goodbye
+average package details please help,placement_info
+quick question check my grades,exam_results
+average package details,placement_info
+quick question merit scholarship information,scholarship_info
+can you tell me final exam schedule,exam_schedule
+book reissue process,library_borrowing
+"could you help with, where do i submit admission form?",admission_process
+whats the libary timing please help,library_timings
+tell me tuition fee please help,fee_structure
+um when does the library close today,library_timings
+do i qualify for admission,admission_eligibility
+"can you tell me, when is my exam?",exam_schedule
+that is all goodbye,goodbye
+hey campusmate when are practical exams,exam_schedule
+can you tell me is there veg option in mess,mess_menu
+quick question identify yourself,bot_identity
+who are you,bot_identity
+goodbye on campus,goodbye
+see you later,goodbye
+course registration portal please help,course_registration
+grievance redressal process please help,grievance_redressal
+weekly mess menu quick question,mess_menu
+could you help with how to confirm fee payment,fee_payment
+revaluation for result please help,exam_results
+could you help with how many books can i borrow,library_borrowing
+please merit scholarship information,scholarship_info
+library timings please please help,library_timings
+girls hostel allotment,hostel_allotment
+placment office contact kindly,placement_info
+how can i get admission,admission_process
+um breakfast menu in mess,mess_menu
+are you campusmate um,bot_identity
+my result is not showing,exam_results
+need a hostel seat,hostel_allotment
+need based scholarship details kindly,scholarship_info
+fee reciept not showing,fee_payment
+exam result date please help,exam_results
+subject registration help please help,course_registration
+"can you tell me, where can i raise grievance?",grievance_redressal
+mess menu for dinner i need to know,mess_menu
+"for this semester, exm schedule for semester?",exam_schedule
+who handles complaints please help,grievance_redressal
+can you tell me hostel and tuition charges,fee_structure
+reset wifi password please help,campus_wifi_support
+when will results come please help,exam_results
+in the university hello,greeting
+download exam time table please help,exam_schedule
+start my admission application,admission_process
+what documents for admission,admission_process
+actually campus recruitment schedule,placement_info
+minimum attendance required on campus,attendance_policy
+semester result link,exam_results
+hostle room application can you tell me,hostel_allotment
+"kindly, book issue limit?",library_borrowing
+"for this semester, catch you later?",goodbye
+minimum marks for admission,admission_eligibility
+"i need to know, quiet hours in hostel?",hostel_rules
+need a hostel seat could you help with,hostel_allotment
+please hostel attendance rule,hostel_rules
+admission eligibility please please help,admission_eligibility
+exam timetable please please help,exam_schedule
+"please, can i get fee waiver?",scholarship_info
+"quick question, are you a bot?",bot_identity
+complaint against facility please help,grievance_redressal
+"hey campusmate, student wifi login issue?",campus_wifi_support
+"kindly, tell me admission steps?",admission_process
+how can i get admission please,admission_process
+who can apply for the course,admission_eligibility
+drop a subject please help,course_registration
+quiet hours in hostel,hostel_rules
+network is slow in hostel,campus_wifi_support
+my fee payment failed,fee_payment
+kindly when is my exam,exam_schedule
+for this semester how do i pay fees,fee_payment
+can you tell me where do i submit admission form,admission_process
+hostel gate closing time,hostel_rules
+i need to know thanks for the help,thanks
+right now exm schedule for semester,exam_schedule
+hostle room application,hostel_allotment
+"kindly, transport fee details?",transport_bus
+required percentage for admission please help,admission_eligibility
+am i eligible for admission,admission_eligibility
+tell me tuition fee actually,fee_structure
+bus pass application,transport_bus
+hostel room allotment status hey campusmate,hostel_allotment
+"hey campusmate, ok bye?",goodbye
+semester result link right now,exam_results
+right now when is library open,library_timings
+exam result date can you tell me,exam_results
+lunch menu please on campus,mess_menu
+wifi support desk,campus_wifi_support
+apply for hostel room,hostel_allotment
+libary book borrowing please help,library_borrowing
+feee structure for mba please help,fee_structure
+for me boys hostel allotment,hostel_allotment
+who am i talking to,bot_identity
+weekly mess menu please help,mess_menu
+can you tell me can i sit exam with low attendance,attendance_policy
+hey campusmate eligibility for undergraduate program,admission_eligibility
+hey campusmate can i sit exam with low attendance,attendance_policy
+college bus route please help,transport_bus
+exm schedule for semester,exam_schedule
+"hey campusmate, what food is served today?",mess_menu
+transport office contact in the university,transport_bus
+hey campusmate wifi is not working,campus_wifi_support
+on campus scholarship eligibility,scholarship_info
+where is scholarship form,scholarship_info
+"could you help with, annual fee amount?",fee_structure
+hi can you help me please help,greeting
+"i need to know, identify yourself?",bot_identity
+for this semester anonymous complaint possible,grievance_redressal
+hey campusmate how to file a complaint,grievance_redressal
+cors registration problem,course_registration
+tell me tuition fee i need to know,fee_structure
+transport fee details,transport_bus
+who am i talking to kindly,bot_identity
+how many books can i borrow,library_borrowing
+what is the eligibility criteria on campus,admission_eligibility
+"can you tell me, book reissue process?",library_borrowing
+right now fees for btech program,fee_structure
+how to file a complaint,grievance_redressal
+can you tell me what time does the library close,library_timings
+"could you help with, minimum marks for admission?",admission_eligibility
+my fee payment failed in the university,fee_payment
+actually can visitors come to hostel,hostel_rules
+library timings please for me,library_timings
+hostel curfew timing hey campusmate,hostel_rules
+library timings please,library_timings
+"quick question, how to download marksheet?",exam_results
+"please, what are hostel rules?",hostel_rules
+hey i need help,greeting
+"could you help with, bus pass application?",transport_bus
+where to see exam schedule,exam_schedule
+revaluation for result,exam_results
+when does the library close today,library_timings
+library timings please quick question,library_timings
+reset wifi password actually,campus_wifi_support
+exam date sheet please help,exam_schedule
+show me exam calendar in the university,exam_schedule
+what is the admission process please help,admission_process
+can i pay fees online,fee_payment
+thanks for the help,thanks
+course registration portal in the university,course_registration
+when do placements start um,placement_info
+please what is this assistant,bot_identity
+course add drop deadline please help,course_registration
+eligibilty for admision,admission_eligibility
+network is slow in hostel please help,campus_wifi_support
+actually are you a bot,bot_identity
+"in the university, what is this assistant?",bot_identity
+"can you tell me, what is the fee structure?",fee_structure
+change my elective,course_registration
+"um, eligibility for undergraduate program?",admission_eligibility
+"for me, how to download marksheet?",exam_results
+bus timings please,transport_bus
+admission procedure please,admission_process
+hostel room allotment status,hostel_allotment
+"could you help with, fee payment portal link?",fee_payment
+could you help with library opening hours,library_timings
+thank you please help,thanks
+hello campus helpdesk,greeting
+fee payment portal link,fee_payment
+thank you kindly,thanks
+many thanks please help,thanks
+exam date sheet,exam_schedule
+in the university where can i check results,exam_results
+download exam time table please,exam_schedule
+in the university can i get fee waiver,scholarship_info
+eligibilty for admision please help,admission_eligibility
+"kindly, see you later?",goodbye
+"right now, where to see exam schedule?",exam_schedule
+i need to know what are hostel rules,hostel_rules
+"for this semester, do i qualify for admission?",admission_eligibility
+library opening hours,library_timings
+kindly do i qualify for admission,admission_eligibility
+"right now, tell me admission steps?",admission_process
+attendance shortage rule please help,attendance_policy
+subject registration help,course_registration
+transport office contact,transport_bus
+great thank you hey campusmate,thanks
+is the library open today in the university,library_timings
+is the library open today,library_timings
+kindly what is todays mess menu,mess_menu
+hi there,greeting
+"for me, scholarship eligibility?",scholarship_info
+great thank you please help,thanks
+mid semester exam dates on campus,exam_schedule
+could you help with student wifi login issue,campus_wifi_support
+"right now, wifi support desk?",campus_wifi_support
+"in the university, scholarship eligibility?",scholarship_info
+kindly last date for fee payment,fee_payment
+how to apply for scholarship please help,scholarship_info
+mid semester exam dates,exam_schedule
+many thanks can you tell me,thanks
+who made this helpdesk for this semester,bot_identity
+in the university hostel waitlist status,hostel_allotment
+um bye,goodbye
+admission eligibility please,admission_eligibility
+return date for books,library_borrowing
+i need to know hey,greeting
+"in the university, placement training info?",placement_info
+hey campusmate how to register courses,course_registration
+hostel curfew timing please help,hostel_rules
+exam timetable please actually,exam_schedule
+is anyone there please help,greeting
+minimum attendance required please help,attendance_policy
+how to connect to wifi,campus_wifi_support
+how much are semester fees,fee_structure
+campus wifi password in the university,campus_wifi_support
+i need to know how do i get hostel allotment,hostel_allotment
+hostel curfew timing,hostel_rules
+exam result date hey campusmate,exam_results
+internet not connecting i need to know,campus_wifi_support
+for me what can you do,bot_identity
+boys hostel allotment,hostel_allotment
+for this semester tell me admission steps,admission_process
+can you explain admissions,admission_process
+how to renew library book,library_borrowing
+can you tell me cors registration problem,course_registration
+right now i am done now,goodbye
+what happens below seventy five percent please help,attendance_policy
+"for this semester, how to connect to wifi?",campus_wifi_support
+actually thanks,thanks
+ok bye,goodbye
+where to check hostel allocation,hostel_allotment
+weekly mess menu,mess_menu
+how to apply for scholarship right now,scholarship_info
+are appliances allowed in hostel,hostel_rules
+show mess menu,mess_menu
+late bus available,transport_bus
+quick question where to check hostel allocation,hostel_allotment
+girls hostel allotment for this semester,hostel_allotment
+kindly can you explain admissions,admission_process
+in the university what are hostel rules,hostel_rules
+for me scholorship deadline,scholarship_info
+internship opportunities,placement_info
+"hey campusmate, where to see exam schedule?",exam_schedule
+hey campusmate where do i submit admission form,admission_process
+required percentage for admission,admission_eligibility
+what are you hey campusmate,bot_identity
+in the university placement eligibility criteria,placement_info
+eligibility for undergraduate program,admission_eligibility
+"quick question, campus recruitment schedule?",placement_info
+whats for diner in mess,mess_menu
+kindly what is the fee structure,fee_structure
+"can you tell me, bus timings please?",transport_bus
+financial aid options,scholarship_info
+show mess menu actually,mess_menu
+kindly catch you later,goodbye
+merit scholarship information,scholarship_info
+hostel room allotment status right now,hostel_allotment
+libary book borrowing,library_borrowing
+good afternoon,greeting
+could you help with ok bye,goodbye
+"kindly, is there veg option in mess?",mess_menu
+"for this semester, when is library open?",library_timings
+when does course registration open,course_registration
+how to join this university please help,admission_process
+need a hostel seat please help,hostel_allotment
+are appliances allowed in hostel please help,hostel_rules
+campus wifi password,campus_wifi_support
+who can apply for the course please help,admission_eligibility
+quick question placement cell details,placement_info
+tell me your name right now,bot_identity
+borrow books from library please help,library_borrowing
+quick question quiet hours in hostel,hostel_rules
+are appliances allowed in hostel kindly,hostel_rules
+shuttle timing today please help,transport_bus
+who made this helpdesk,bot_identity
+"hey campusmate, when does course registration open?",course_registration
+um how much are semester fees,fee_structure
+need based scholarship details,scholarship_info
+scholorship deadline,scholarship_info
+when are hostels allotted,hostel_allotment
+reset wifi password,campus_wifi_support
+what are libary timings please help,library_timings
+hostel room allotment status please help,hostel_allotment
+hi there for this semester,greeting
+late bus available for me,transport_bus
+"could you help with, return date for books?",library_borrowing
+what are you please help,bot_identity
+need based scholarship details please help,scholarship_info
+thanks bye please help,goodbye
+can i pay fees online please help,fee_payment
+tell me your name,bot_identity
+for me what items are banned in hostel,hostel_rules
+bye,goodbye
+where is scholarship form could you help with,scholarship_info
+can you tell me see you later,goodbye
+i want to report a problem,grievance_redressal
+end chat please help,goodbye
+"kindly, hostel and tuition charges?",fee_structure
+how to register courses,course_registration
+placment office contact,placement_info
+medical leave attendance please help,attendance_policy
+what time does the library close,library_timings
+"actually, companies visiting campus?",placement_info
+course fee details on campus,fee_structure
+tell me about student aid,scholarship_info
+for this semester final exam schedule,exam_schedule
+for this semester book issue limit,library_borrowing
+um how do i apply for admission,admission_process
+"hey campusmate, what is attendance policy?",attendance_policy
+"please, hey?",greeting
+financial aid options please help,scholarship_info
+"can you tell me, what food is served today?",mess_menu
+buss route to station,transport_bus
+"on campus, hello?",greeting
+exam result date,exam_results
+how to join this university,admission_process
+actually how to download marksheet,exam_results
+in the university cool thanks,thanks
+feee structure for mba,fee_structure
+right now buss route to station,transport_bus
+semester result link please help,exam_results
+campus bus schedule actually,transport_bus
+library borrowing rules please help,library_borrowing
+breakfast menu in mess,mess_menu
+hostel gate closing time please help,hostel_rules
+um where to see exam schedule,exam_schedule
+"please, placement eligibility criteria?",placement_info
+where can i pay my fee please,fee_payment
+library fine for late return,library_borrowing
+"um, whats for diner in mess?",mess_menu
+"please, where can i check results?",exam_results
+what is the eligibility criteria please help,admission_eligibility
+"actually, hey i need help?",greeting
+revaluation for result um,exam_results
+on campus thanks,thanks
+i want to report a problem please help,grievance_redressal
+"could you help with, can i sit exam with low attendance?",attendance_policy
+is seventy five attendance mandatory i need to know,attendance_policy
+book issue limit,library_borrowing
+i need to know who are you,bot_identity
+what happens below seventy five percent in the university,attendance_policy
+for this semester how much attendance is needed,attendance_policy
+"can you tell me, how to confirm fee payment?",fee_payment
+"on campus, cool thanks?",thanks
+tell me your name please help,bot_identity
+what are libary timings i need to know,library_timings
+lunch menu please,mess_menu
+um how many books can i borrow,library_borrowing
+goodbye please help,goodbye
+attendance percentage requirement,attendance_policy
+library weekend timing on campus,library_timings
+for this semester wifi support desk,campus_wifi_support
+"please, hostel waitlist status?",hostel_allotment
+who handles complaints,grievance_redressal
+i am done now,goodbye
+where can i raise grievance,grievance_redressal
+"on campus, companies visiting campus?",placement_info
+"in the university, my result is not showing?",exam_results
+for this semester can i study in library at night,library_timings
+pay semester fees please help,fee_payment
+"could you help with, see you later?",goodbye
+right now can i reserve a book,library_borrowing
+can i reserve a book,library_borrowing
+hey campusmate bus pass application,transport_bus
+where is the fees counter on campus,fee_payment
+placment office contact please help,placement_info
+kindly how to connect to wifi,campus_wifi_support
+kindly attendence policy please,attendance_policy
+campus bus schedule please help,transport_bus
+um fee reciept not showing,fee_payment
+campus wifi password for me,campus_wifi_support
+thanks a lot,thanks
+can you tell me transport fee details,transport_bus
+"for this semester, fees for btech program?",fee_structure
+identify yourself,bot_identity
+hostal rules please,hostel_rules
+"could you help with, what time does the library close?",library_timings
+thanks bye quick question,goodbye
+that helps thanks please help,thanks
+"right now, bye?",goodbye
+could you help with when is my exam,exam_schedule
+kindly library opening hours,library_timings
+um when does course registration open,course_registration
+on campus hostel attendance rule,hostel_rules
+when is library open,library_timings
+"right now, where is bus stop?",transport_bus
+thanks,thanks
+um am i eligible for admission,admission_eligibility
+"hey campusmate, when does the library close today?",library_timings
+please my result is not showing,exam_results
+fee breakdown please please help,fee_structure
+exam date sheet for me,exam_schedule
+who made this helpdesk please help,bot_identity
+"kindly, how do i pay fees?",fee_payment
+um what is attendance policy,attendance_policy
+"i need to know, merit scholarship information?",scholarship_info
+course fee details,fee_structure
+marks card download please help,exam_results
+could you help with when does course registration open,course_registration
+when are hostels allotted please help,hostel_allotment
+can you tell me campus wi fi problem,campus_wifi_support
+"actually, appreciate it?",thanks
+"can you tell me, how to connect to wifi?",campus_wifi_support
+thanks bye,goodbye
+for me appreciate it,thanks
+good evening right now,greeting
+could you help with report a campus issue,grievance_redressal
+where is the fees counter,fee_payment
+hi there please help,greeting
+"for me, can visitors come to hostel?",hostel_rules
+grivance form link,grievance_redressal
+"um, fee payment portal link?",fee_payment
+for this semester hostel and tuition charges,fee_structure
+what are you,bot_identity
+libary book borrowing i need to know,library_borrowing
+"on campus, exam reslts portal?",exam_results
+can you tell me return date for books,library_borrowing
+course add drop deadline actually,course_registration
+internship opportunities please help,placement_info
+hostel waitlist status,hostel_allotment
+can i pay fees online for me,fee_payment
+"could you help with, cors registration problem?",course_registration
+campus wi fi problem,campus_wifi_support
+what are libary timings,library_timings
+when will results come,exam_results
+please placement cell details,placement_info
+where do i submit admission form,admission_process
+"kindly, how much attendance is needed?",attendance_policy
+exam timetable please,exam_schedule
+who am i talking to please help,bot_identity
+what is this assistant,bot_identity
+attendance shortage rule,attendance_policy
+appreciate it,thanks
+"kindly, final exam schedule?",exam_schedule
+quick question appreciate it,thanks
+for this semester transport fee details,transport_bus
+fee breakdown please,fee_structure
+talk to you later please help,goodbye
+course fee details please help,fee_structure
+girls hostel allotment please help,hostel_allotment
+rules for leaving hostel right now,hostel_rules
+"for this semester, where can i raise grievance?",grievance_redressal
+hi there can you tell me,greeting
+mid semester exam dates please help,exam_schedule
+on campus apply for hostel room,hostel_allotment
+actually good afternoon,greeting
+where can i check results,exam_results
+could you help with what is attendance policy,attendance_policy
+what is the admission process,admission_process
+is there veg option in mess,mess_menu
+how to register for placements,placement_info
+grievance redressal process for me,grievance_redressal
+drop a subject,course_registration
+where is scholarship form please help,scholarship_info
+"for me, are you a bot?",bot_identity
+how to download marksheet,exam_results
+for this semester am i eligible for admission,admission_eligibility
+exam reslts portal,exam_results
+college bus route on campus,transport_bus
+"for me, good afternoon?",greeting
+um student wifi login issue,campus_wifi_support
+"um, start my admission application?",admission_process
+borrow books from library in the university,library_borrowing
+student grievance portal,grievance_redressal
+who handles complaints please,grievance_redressal
+um where is bus stop,transport_bus
+network is slow in hostel quick question,campus_wifi_support
+"hey campusmate, where is bus stop?",transport_bus
+"please, who are you?",bot_identity
+hello,greeting
+minimum attendance required,attendance_policy
+hostel and tuition charges,fee_structure
+when will results come kindly,exam_results
+"could you help with, when are practical exams?",exam_schedule
+campus recruitment schedule,placement_info
+mess food timing and menu please help,mess_menu
+mess menu for dinner please help,mess_menu
+that is all goodbye please help,goodbye
+"um, how to register courses?",course_registration
+where is bus stop,transport_bus
+can you tell me grivance form link,grievance_redressal
+right now start my admission application,admission_process
+in the university who are you,bot_identity
+hey campusmate i am done now,goodbye
+thank you so much,thanks
+show me exam calendar please help,exam_schedule
+"i need to know, check my grades?",exam_results
+"can you tell me, can you explain admissions?",admission_process
+eduroam setup help please help,campus_wifi_support
+college bus route,transport_bus
+can i study in library at night,library_timings
+for this semester register for next semester,course_registration
+whats the libary timing please,library_timings
+"for this semester, add elective course?",course_registration
+what are the college fees for me,fee_structure
+"can you tell me, attendence policy please?",attendance_policy
+grievance redressal process in the university,grievance_redressal
+fees for btech program,fee_structure
+student grievance portal please help,grievance_redressal
+what is the fee structure,fee_structure
+"hey campusmate, how do i apply for admission?",admission_process
+library fine for late return please help,library_borrowing
+what food is served today,mess_menu
+check my grades,exam_results
+how to confirm fee payment,fee_payment
+hostle room application please help,hostel_allotment
+"can you tell me, add elective course?",course_registration
+how do i pay fees,fee_payment
+"um, i am done now?",goodbye
+can i get fee waiver,scholarship_info
+"can you tell me, library opening hours?",library_timings
+how do i get hostel allotment,hostel_allotment
+i want to report a problem quick question,grievance_redressal
+where can i pay my fee quick question,fee_payment
+talk to you later,goodbye
+please where to check hostel allocation,hostel_allotment
+pay semester fees,fee_payment
+right now attendance percentage requirement,attendance_policy
+eduroam setup help,campus_wifi_support
+financial aid options for this semester,scholarship_info
+mess food timing and menu,mess_menu
+"right now, book issue limit?",library_borrowing
+what is the admission process on campus,admission_process
+"um, how to file a complaint?",grievance_redressal
+attendance shortage rule please,attendance_policy
+could you help with what qualifications are needed,admission_eligibility
+student wifi login issue,campus_wifi_support
+i need to know placement eligibility criteria,placement_info
+"for me, thanks?",thanks
+internet not connecting,campus_wifi_support
+"actually, scholorship deadline?",scholarship_info
+"for this semester, last date for fee payment?",fee_payment
+"on campus, what items are banned in hostel?",hostel_rules
+"for this semester, what is todays mess menu?",mess_menu
+what is the admission process actually,admission_process
+what items are banned in hostel,hostel_rules
+campus wifi password please help,campus_wifi_support
+library borrowing rules,library_borrowing
+transport office contact please help,transport_bus
+shuttle timing today,transport_bus
+are you a bot,bot_identity
+"hey campusmate, report a campus issue?",grievance_redressal
+many thanks,thanks
+"quick question, what scholarships are available?",scholarship_info
+where can i pay my fee please help,fee_payment
+"um, wifi is not working?",campus_wifi_support
+goodbye please,goodbye
+cool thanks,thanks
+what is the eligibility criteria,admission_eligibility
+course registration portal for me,course_registration
+rules for leaving hostel please help,hostel_rules
+placement eligibility criteria,placement_info
+when do placements start could you help with,placement_info
+tell me about student aid can you tell me,scholarship_info
+medical leave attendance quick question,attendance_policy
+"in the university, thanks a lot?",thanks
+lunch menu please please help,mess_menu
+what can you do,bot_identity
+can i sit exam with low attendance,attendance_policy
+library fine for late return quick question,library_borrowing
+goodbye,goodbye
+what are the college fees please help,fee_structure
+companies visiting campus,placement_info
+hostel curfew timing can you tell me,hostel_rules
+"quick question, can visitors come to hostel?",hostel_rules
+that helps thanks,thanks
+mess food timing and menu for me,mess_menu
+thank you so much could you help with,thanks
+student grievance portal actually,grievance_redressal
+can visitors come to hostel,hostel_rules
+last date for fee payment,fee_payment
+tell me admission steps,admission_process
+complaint against facility,grievance_redressal
+hostal rules please for this semester,hostel_rules
+kindly where can i raise grievance,grievance_redressal
+anonymous complaint possible,grievance_redressal
+what documents for admission in the university,admission_process
+good evening please help,greeting
+i need to know what scholarships are available,scholarship_info
+register for next semester,course_registration
+kindly book reissue process,library_borrowing
+pay semester fees actually,fee_payment
+library weekend timing please help,library_timings
+"right now, anonymous complaint possible?",grievance_redressal
+complaint against facility i need to know,grievance_redressal
+internet not connecting please help,campus_wifi_support
+who can apply for the course quick question,admission_eligibility
+what happens below seventy five percent,attendance_policy
+is anyone there um,greeting
+average package details right now,placement_info
+for me exam reslts portal,exam_results
+annual fee amount,fee_structure
+my fee payment failed please help,fee_payment
+thank you so much please help,thanks
+please hello campus helpdesk,greeting
+quick question hey i need help,greeting
+"um, when is library open?",library_timings
+right now how to register courses,course_registration
+thank you,thanks
+is seventy five attendance mandatory,attendance_policy
+could you help with bus timings please,transport_bus
+are you campusmate,bot_identity
+could you help with how do i apply for admission,admission_process
+"right now, fee reciept not showing?",fee_payment
+feee structure for mba in the university,fee_structure
+how to apply for scholarship hey campusmate,scholarship_info
+is anyone there,greeting
+on campus what is this assistant,bot_identity
+"could you help with, campus wi fi problem?",campus_wifi_support

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CampusMate</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <main class="shell">
+    <section class="topbar">
+      <div><p class="eyebrow">Voice campus helpdesk</p><h1>CampusMate</h1></div>
+      <div class="toggles">
+        <label class="switch"><input id="asrToggle" type="checkbox"><span></span>Use server ASR (Whisper)</label>
+        <label class="switch"><input id="muteToggle" type="checkbox"><span></span>Mute voice reply</label>
+      </div>
+    </section>
+
+    <section class="workbench">
+      <aside class="voicePanel">
+        <button id="micBtn" class="mic idle" aria-label="Start voice input"><span class="micIcon"> </span></button>
+        <p id="stateText" class="state">idle</p>
+        <button id="permissionBtn" class="secondary">Check microphone permission</button>
+        <button id="uploadBtn" class="secondary">Record & upload</button>
+        <div id="notice" class="notice" role="status"></div>
+        <section class="recognized" aria-live="polite">
+          <h2>Recognized speech</h2>
+          <p id="recognizedText">Your transcript will appear here.</p>
+        </section>
+      </aside>
+
+      <section class="chatPanel">
+        <div id="chatLog" class="chatLog" aria-live="polite"></div>
+        <form id="textForm" class="composer">
+          <input id="textInput" type="text" maxlength="300" placeholder="Type a campus question..." aria-label="Type a campus question">
+          <button type="submit">Send</button>
+        </form>
+      </section>
+    </section>
+  </main>
+  <script src="/static/app.js"></script>
+</body>
+</html>
