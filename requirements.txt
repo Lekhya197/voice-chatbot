@@ -1,5 +1,5 @@
-fastapi==0.115.6
-uvicorn[standard]==0.34.0
+streamlit==1.30.0
+audio-recorder-streamlit==0.0.10
 python-multipart==0.0.20
 torch==2.5.1
 scikit-learn==1.6.0
@@ -8,3 +8,4 @@ pandas==2.2.3
 matplotlib==3.10.0
 faster-whisper==1.1.1
 ctranslate2==4.5.0
+gTTS==2.4.1
