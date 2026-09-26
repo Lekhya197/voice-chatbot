@@ -1,11 +1,14 @@
 streamlit==1.30.0
 audio-recorder-streamlit==0.0.10
 python-multipart==0.0.20
-torch==2.5.1
-scikit-learn==1.6.0
-numpy==2.1.3
-pandas==2.2.3
-matplotlib==3.10.0
-faster-whisper==1.1.1
-ctranslate2==4.5.0
-gTTS==2.4.1
+# Allow pip to resolve a compatible torch for Python 3.11; prefer 2.5.x if available
+torch>=2.2,<2.6
+scikit-learn>=1.6.0,<2
+# streamlit requires numpy<2; leave as a compatibility constraint
+numpy<2
+pandas>=2.2.3
+matplotlib>=3.10.0
+faster-whisper>=1.1.1
+ctranslate2>=4.5.0
+# gTTS 2.4.1 isn't available for all Python versions; allow 2.4-2.6
+gTTS>=2.4,<2.6
